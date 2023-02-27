@@ -1,0 +1,5 @@
+Python: https://www.python.org/about/
+Git: https://git-scm.com/about
+VSCode: https://code.visualstudio.com/
+SQLLiteBrowser: https://sqlitebrowser.org/about/
+Navegadores: Opera; Chrome; Firefox
